@@ -1,21 +1,10 @@
----
-create: 2026-06-28
-update: 2026-06-29
-author: thinkycx
-title: Claude Code 文档中文翻译项目
-description: Claude Code 官方文档中文意译，覆盖核心概念、配置、扩展功能、工作流等文档。追求可读性同时保留完整信息量。
-category: translation
-tags: [claude-code, translation, docs]
-refs:
-  - https://code.claude.com/docs/en/overview.md
-  - https://code.claude.com/docs/llms.txt
----
-
 # Claude Code 文档中文翻译
 
-原文：https://code.claude.com/docs/
-在线阅读：https://thinkycx.me/files/claude-code-docs-cn-pub/README.html
-进度：**58/58**
+Claude Code 官方文档的中文意译版本，覆盖核心概念、配置、扩展功能、工作流等全部文档。追求可读性的同时保留完整信息量，帮助中文开发者快速上手 Claude Code。
+
+- 原文：https://code.claude.com/docs/
+- 在线阅读：https://thinkycx.me/files/claude-code-docs-cn-pub/
+- 进度：**58/58**
 
 ## 翻译规范
 
